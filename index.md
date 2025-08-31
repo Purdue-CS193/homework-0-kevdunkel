@@ -1,4 +1,4 @@
-# Kevin's First CS193 Homework#
+# Kevin's First CS193 Homework
 ## Favorite things about CS193:
 - the grading scale
 - the people
